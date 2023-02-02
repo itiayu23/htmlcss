@@ -1,0 +1,9 @@
+ .red-word {
+  color : red;
+
+}
+.tweet-content {
+  font-size: 20px
+  color :green;
+  background-color: red;
+}
